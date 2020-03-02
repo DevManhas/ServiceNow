@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Household">23572a552f130010c645808cf699b6dd</application>
+        <filter/>
+        <name>Manage</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>glide</sys_created_by>
+        <sys_created_on>2020-03-01 10:07:15</sys_created_on>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path>!!!/!!!/</sys_domain_path>
+        <sys_id>cb1c2a192f130010c645808cf699b6f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manage</sys_name>
+        <sys_package display_value="HouseHold" source="x_458010_household">7ba566d12f130010c645808cf699b65a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HouseHold">7ba566d12f130010c645808cf699b65a</sys_scope>
+        <sys_update_name>sys_ui_module_cb1c2a192f130010c645808cf699b6f3</sys_update_name>
+        <sys_updated_by>glide</sys_updated_by>
+        <sys_updated_on>2020-03-01 10:07:15</sys_updated_on>
+        <table>x_458010_household_household</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

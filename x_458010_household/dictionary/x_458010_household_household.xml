@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Household" max_length="40" name="x_458010_household_household" sizeclass="0" type="collection">
+        <element choice="1" label="WorkType" max_length="40" name="worktype" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ATM Withdraw" sequence="0" value="atm withdraw"/>
+                <element inactive_on_update="false" label="Grocery" sequence="1" value="grocery"/>
+                <element inactive_on_update="false" label="Nandika Pickup" sequence="2" value="nandika pickup"/>
+                <element inactive_on_update="false" label="Nandiak Drop" sequence="3" value="nandiak drop"/>
+            </choice>
+        </element>
+    </element>
+</database>

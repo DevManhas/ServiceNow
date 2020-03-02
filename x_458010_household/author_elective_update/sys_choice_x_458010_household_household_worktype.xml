@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="worktype" table="x_458010_household_household" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>worktype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ATM Withdraw</label>
+            <language>en</language>
+            <name>x_458010_household_household</name>
+            <sequence>0</sequence>
+            <sys_created_by>glide</sys_created_by>
+            <sys_created_on>2020-03-01 09:51:59</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>24b86a952f130010c645808cf699b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide</sys_updated_by>
+            <sys_updated_on>2020-03-01 09:51:59</sys_updated_on>
+            <value>atm withdraw</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>worktype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grocery</label>
+            <language>en</language>
+            <name>x_458010_household_household</name>
+            <sequence>1</sequence>
+            <sys_created_by>glide</sys_created_by>
+            <sys_created_on>2020-03-01 09:51:59</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>a4b86a952f130010c645808cf699b6fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide</sys_updated_by>
+            <sys_updated_on>2020-03-01 09:51:59</sys_updated_on>
+            <value>grocery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>worktype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nandika Pickup</label>
+            <language>en</language>
+            <name>x_458010_household_household</name>
+            <sequence>2</sequence>
+            <sys_created_by>glide</sys_created_by>
+            <sys_created_on>2020-03-01 09:51:59</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>60b86a952f130010c645808cf699b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide</sys_updated_by>
+            <sys_updated_on>2020-03-01 09:51:59</sys_updated_on>
+            <value>nandika pickup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>worktype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nandiak Drop</label>
+            <language>en</language>
+            <name>x_458010_household_household</name>
+            <sequence>3</sequence>
+            <sys_created_by>glide</sys_created_by>
+            <sys_created_on>2020-03-01 09:51:59</sys_created_on>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path>!!!/!!!/</sys_domain_path>
+            <sys_id>2cb8aa952f130010c645808cf699b600</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glide</sys_updated_by>
+            <sys_updated_on>2020-03-01 09:51:59</sys_updated_on>
+            <value>nandiak drop</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>worktype</element>
+            <name>x_458010_household_household</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>glide</sys_created_by>
+            <sys_created_on>2020-03-01 09:51:59</sys_created_on>
+            <sys_id>ecb86a952f130010c645808cf699b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>worktype</sys_name>
+            <sys_package display_value="HouseHold" source="x_458010_household">7ba566d12f130010c645808cf699b65a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HouseHold">7ba566d12f130010c645808cf699b65a</sys_scope>
+            <sys_update_name>sys_choice_x_458010_household_household_worktype</sys_update_name>
+            <sys_updated_by>glide</sys_updated_by>
+            <sys_updated_on>2020-03-01 09:51:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
